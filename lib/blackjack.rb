@@ -60,4 +60,5 @@ def runner
   end
   end_game(total)
 end
-runner
+testing = get_user_input
+puts testing
