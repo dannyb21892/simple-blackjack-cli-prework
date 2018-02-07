@@ -60,8 +60,3 @@ def runner
   end
   end_game(total)
 end
-testing = get_user_input
-puts testing
-if testing == "dannyb"
-  puts "winner"
-end
